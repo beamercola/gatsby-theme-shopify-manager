@@ -9,4 +9,5 @@ export {useRemoveItemsFromCart} from './useRemoveItemsFromCart';
 export {useCartItems} from './useCartItems';
 export {useCheckoutUrl} from './useCheckoutUrl';
 export {useGetLineItem} from './useGetLineItem';
+export {useUpdateItem} from './useUpdateItem';
 export {useUpdateItemQuantity} from './useUpdateItemQuantity';
